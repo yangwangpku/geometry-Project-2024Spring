@@ -1,0 +1,9 @@
+**/__pycache__/
+**/data/
+**/result/
+**/*.ply
+**/*.obj
+Final project/
+homework3/
+homework4/data/
+homework4/output
